@@ -1,0 +1,28 @@
+.home{
+    min-height: 100vh;
+    /* background-image: url('https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); */
+    background-image: url('https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+select{
+    width: 50%;
+}
+
+.bod{
+    width: 430px;
+}
+
+.swap{
+    position: absolute;
+    transform: translateY(-1rem);
+}
+
+.swap:hover{
+    background-color: rgb(15, 95, 216) !important;
+}
+
+.submit:hover{
+    background-color: rgb(15, 95, 216) !important;
+}
